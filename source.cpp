@@ -56,8 +56,5 @@ int main()
         cout << e.what() << endl;
     }
 
-     //  Rhomb rhomb(30, 30, 40);
-      // print_info(&rhomb);
-
     return 0;
 }
